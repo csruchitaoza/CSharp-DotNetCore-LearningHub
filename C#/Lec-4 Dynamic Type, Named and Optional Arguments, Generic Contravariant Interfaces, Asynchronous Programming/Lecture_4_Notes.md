@@ -1,6 +1,6 @@
 ## Lecture 4: Dynamic Type, Named and Optional Arguments, Generic Contravariant Interfaces, Asynchronous Programming
 
-Welcome to the second session of our C# Mastery series! In this session, we will delve into the key concepts of Dynamic Type, Named and Optional Arguments, Generic Contravariant Interfaces and Asynchronous Programming.
+Welcome to the fourth session of our C# Mastery series! In this session, we will delve into the key concepts of Dynamic Type, Named and Optional Arguments, Generic Contravariant Interfaces and Asynchronous Programming.
 
 Below you'll find details about this session and a link to the Session Notes.
 
